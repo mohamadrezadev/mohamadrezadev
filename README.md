@@ -45,6 +45,19 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" width="30" /></code> 
 
 ![dotnet](https://img.shields.io/badge/-.NET-05122A?style=flat&color=blue)&nbsp;![dotnetCore](https://img.shields.io/badge/-.NetCore-05122A?style=flat&color=blue)&nbsp;![aspnet](https://img.shields.io/badge/-AspNet-05122A?style=flat&color=blue)&nbsp;![csharp](https://img.shields.io/badge/-CSharp-05122A?style=flat&color=blue)&nbsp;![entityframework](https://img.shields.io/badge/-EntityFramework-05122A?style=flat&color=orange)&nbsp;![github](https://img.shields.io/badge/-GitHub-05122A?style=flat&color=green)&nbsp;![docker](https://img.shields.io/badge/-Docker-05122A?style=flat&color=red)&nbsp;![git](https://img.shields.io/badge/-Git-05122A?style=flat&color=red)&nbsp;![visualstudio](https://img.shields.io/badge/-VisualStudio-05122A?style=flat&color=purple)&nbsp;![vscode](https://img.shields.io/badge/-VSCode-05122A?style=flat&color=purple)  
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="CSharp" alt"CSharp" width="40" height="40" />&nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg" title="CSharp" alt"CSharp" width="40" height="40" />&nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;&nbsp;
+  <img src="https://logodownload.org/wp-content/uploads/2016/10/Microsoft-SQL-Server-Logo-1.png" title="SqlServer"  alt="SqlServer" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+</div>
+
 ---
 
 ### :fire: My Stats :
