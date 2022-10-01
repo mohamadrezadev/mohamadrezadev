@@ -32,17 +32,24 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
 ### :hammer_and_wrench: Languages and Tools :
-<div>
- 
-  
-  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40"    height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" 
-  height="40"/>&nbsp;
+## Linguagens, Ferramentas e Tecnologias 🖥️ 🛠
 
-</div>
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" title=".NET" width="30" /></code> 
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" title=".NET Core" width="30" /></code> 
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="C#" width="30" /></code> 
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" width="30" /></code> 
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" title="Angular" width="30" /></code> 
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" title="Ionic" width="30" /></code> 
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="SQL Server" width="30" /></code>
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" title="Oracle" width="30" /></code>
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" title="Azure" width="30" /></code> 
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" width="30" /></code>
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" width="30" /></code> 
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" width="30" /></code>
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" title="Visual Studio" width="30"  /></code> 
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" width="30" /></code> 
+
+![dotnet](https://img.shields.io/badge/-.NET-05122A?style=flat&color=blue)&nbsp;![dotnetCore](https://img.shields.io/badge/-.NetCore-05122A?style=flat&color=blue)&nbsp;![aspnet](https://img.shields.io/badge/-AspNet-05122A?style=flat&color=blue)&nbsp;![csharp](https://img.shields.io/badge/-CSharp-05122A?style=flat&color=blue)&nbsp;![typescript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&color=blue)&nbsp;![angular](https://img.shields.io/badge/-Angular-05122A?style=flat&color=blue)&nbsp;![ionic](https://img.shields.io/badge/-Ionic-05122A?style=flat&color=blue)&nbsp;![sqlserver](https://img.shields.io/badge/-SqlServer-05122A?style=flat&color=yellow)&nbsp;![oracle](https://img.shields.io/badge/-Oracle-05122A?style=flat&color=yellow)&nbsp;![entityframework](https://img.shields.io/badge/-EntityFramework-05122A?style=flat&color=orange)&nbsp;![azure](https://img.shields.io/badge/-Azure-05122A?style=flat&color=green)&nbsp;![github](https://img.shields.io/badge/-GitHub-05122A?style=flat&color=green)&nbsp;![docker](https://img.shields.io/badge/-Docker-05122A?style=flat&color=red)&nbsp;![git](https://img.shields.io/badge/-Git-05122A?style=flat&color=red)&nbsp;![visualstudio](https://img.shields.io/badge/-VisualStudio-05122A?style=flat&color=purple)&nbsp;![vscode](https://img.shields.io/badge/-VSCode-05122A?style=flat&color=purple)  
 ---
 
 ### :fire: My Stats :
